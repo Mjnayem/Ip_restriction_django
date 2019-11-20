@@ -1,4 +1,4 @@
-# Ip_restriction_django
+# ipblock
 A middleware to filter ip address of request and make decision which ip to block or which not.
 
 First make middleware class inside any app and register it in MIDDLEWARE array in settings.py file, you are done.
